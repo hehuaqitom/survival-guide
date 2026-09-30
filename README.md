@@ -12,7 +12,7 @@
 
 | | |
 |---|---|
-| 📦 **单文件** | 只有一个 `mori_v2.0.html`，双击即开，没有任何附带文件 |
+| 📦 **单文件** | 只有一个 `survival-guide.html`，双击即开，没有任何附带文件 |
 | 🔌 **完全离线** | 零外部依赖、零网络请求，连 three.js 这类库也全部内联 |
 | 🛠 **零安装** | 不需要服务器、不需要 Node、不需要联网 |
 | 📱 **跨平台** | 电脑 / 平板 / 手机浏览器通用，已针对移动端适配 |
@@ -128,7 +128,7 @@ English | **[简体中文](README.md)**
 
 | | |
 |---|---|
-| 📦 **Single file** | Just one `mori_v2.0.html` — double-click and it runs, no companion files |
+| 📦 **Single file** | Just one `survival-guide.html` — double-click and it runs, no companion files |
 | 🔌 **Fully offline** | Zero external dependencies, zero network requests. Even three.js is inlined |
 | 🛠 **Zero setup** | No server, no Node.js, no internet connection required |
 | 📱 **Cross-platform** | Works in any desktop / tablet / mobile browser, with dedicated mobile layouts |
